@@ -1,5 +1,5 @@
 ## 🌐  Github Page
-[https://maverickglates.github.io/](https://alexandermaverick.github.io/)
+https://alexandermaverick.github.io/
 
 Fork #1
 https://github.com/AlexanderMaverick/spirithrasher.github.io
